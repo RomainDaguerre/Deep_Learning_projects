@@ -49,3 +49,15 @@ mamba env update -f binder/DL_env.yml
 ```
 conda deactivate
 ```
+
+## Notebook
+
+### MNIST:
+```bash
+jupyter notebook Projet_MNIST.ipynb
+```
+
+### Localization:
+```bash
+jupyter notebook Projet_localization.ipynb
+```
