@@ -1,4 +1,4 @@
-name: environment
+name: DL_env
 channels:
     - conda-forge
     - bioconda
