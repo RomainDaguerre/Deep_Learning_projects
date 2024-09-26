@@ -1,4 +1,4 @@
- Evaluation Quality 3D (EQ3D)
+MNIST and Localization
 
 
 <p align="center">
