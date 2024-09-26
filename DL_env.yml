@@ -1,0 +1,20 @@
+name: environment
+channels:
+    - conda-forge
+    - bioconda
+    - nodefaults
+dependencies:
+    - python
+    - pip
+    - numpy
+    - pandas
+    - keras
+    - matplotlib
+    - tensorflow
+    - ipykernel
+    - scikit-learn
+    - pydot
+    - tqdm
+    - seaborn
+    - pip:
+      - jupyter
